@@ -1,4 +1,4 @@
-<p align="center"><img src="docs/assets/hero.png" alt="Banner: a sentence, 'feeling like a million bucks', drawn as a point in embedding space with three candidate labels around it; the nearest one, rich (cosine 0.353), is linked and highlighted, happy (0.238) and sad (0.205) are farther away. Scores are real model output; the point layout is illustrative." width="100%"></p>
+<p align="center"><img src="docs/assets/hero.jpg" alt="Banner: a risograph paper-cut illustration of a brass compass whose needle points at the nearest of three paper islands, a coral lighthouse island, with a mustard and a teal island farther away. Title: Semantic classification API." width="100%"></p>
 
 # Semantic Classification using Transformer and Deployment with FastAPI, Kubernetes, and AWS ECS Fargate + ALB
 
@@ -99,4 +99,4 @@ The CDK stack in `deploy-aws/` runs the image on Fargate behind an Application L
 
 ## Visual assets
 
-The banner illustration was generated from a written brief (`docs/assets/briefs/hero.md`, with the references it drew on); its sidecar `docs/assets/hero-art.png.json` records the prompt. The text and scores are set by `docs/assets/tools/compose_hero.py`. `docs/assets/social-preview.png` (1280x640) is for the repository's social preview.
+The banner illustration was generated from a written brief (`docs/assets/briefs/hero.md`, with the references it drew on); its sidecar `docs/assets/hero-art.png.json` records the prompt. The text and scores are set by `docs/assets/tools/compose_banner.py`. `docs/assets/social-preview.jpg` (1280x640) is for the repository's social preview.

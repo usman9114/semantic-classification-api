@@ -1,8 +1,8 @@
 {
-  "prompt": "Wide technical illustration, aspect about 2:1, of an abstract 3D embedding vector space. One bright teal glowing point (a sentence) with a soft halo. Three label points nearby at different distances, small glowing spheres: one teal-green that is nearest and glows brighter, connected to the query by a thin luminous teal line; one muted violet and one muted amber farther away, connected by faint dotted lines. Sparse field of tiny dim points in the background, faint perspective grid floor. The cluster sits in the right two-thirds; the left third is calm, dark empty navy space. Deep navy ink background (#0B1020), high contrast, soft glow, minimal modern clean style, slight isometric camera, depth of field. Not photoreal. No robots, no brains, no people, no circuit boards. Absolutely no text, letters, numbers, logos, watermarks, borders or UI.",
+  "prompt": "Warm risograph-print poster illustration with layered paper-cut depth and soft drop shadows. Cream paper texture with visible grain and slight print misregistration. In the right two-thirds: a large brass compass whose glowing needle points decisively at the nearest of three small paper-cut islands floating on a calm sea of layered wavy paper. The nearest island is coral red with a tiny striped lighthouse; the two farther islands are mustard yellow and deep teal, smaller, linked to the compass by faint dotted route lines. Palette: cream, coral red, mustard, deep teal, ink-navy accents. Wide 2:1 composition. The left third of the canvas stays quiet and low-detail so a title can be placed there. No text, letters, numbers, logos, watermarks, borders, people or robots.",
   "driver_model": "gpt-6-luna",
   "image_model": "gpt-image via codex $imagegen",
-  "created": "2026-11-26T21:03:10",
+  "created": "2026-11-26T21:15:50",
   "refs": [],
   "tool": "scout.chatgpt (codex exec, ChatGPT plan)",
   "note": "AI-generated. Not a product photo."
